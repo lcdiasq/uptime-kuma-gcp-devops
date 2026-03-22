@@ -16,5 +16,14 @@ O projeto será desenvolvido em etapas:
 4. CI/CD (GitHub Actions)
 5. Monitoramento e persistência
 
+
 ## Status Atual
-🚧 Etapa 1 - Fundação do Projeto
+🚧 Etapa 2 - Containerização
+
+Teste da aplicação utilizando Docker.
+
+### Execução local
+
+```bash
+docker build -t uptime-kuma-custom .
+docker run -p 8080:8080 uptime-kuma-custom
