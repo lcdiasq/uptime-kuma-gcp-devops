@@ -20,6 +20,8 @@ O projeto será desenvolvido em etapas:
 ## Status Atual
 🚧 Etapa 2 - Containerização
 
+# teste de branch
+Fazendo novo Branch via git
 Teste da aplicação utilizando Docker.
 
 ### Execução local
